@@ -20,7 +20,7 @@ spec:
             - name: TZ
               value: Asia/Seoul
             - name: DB_URL
-              value: jdbc:mysql://webide:3306/webide?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
+              value: jdbc:mysql://mysql:3306/webide
             - name: DB_USERNAME
               value: root
             - name: DB_PASSWORD
